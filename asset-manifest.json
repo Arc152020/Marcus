@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Marcus/static/js/main.59dd152f.chunk.js",
+    "main.js.map": "/Marcus/static/js/main.59dd152f.chunk.js.map",
+    "runtime-main.js": "/Marcus/static/js/runtime-main.93d8d6c2.js",
+    "runtime-main.js.map": "/Marcus/static/js/runtime-main.93d8d6c2.js.map",
+    "static/js/2.dd54e7ec.chunk.js": "/Marcus/static/js/2.dd54e7ec.chunk.js",
+    "static/js/2.dd54e7ec.chunk.js.map": "/Marcus/static/js/2.dd54e7ec.chunk.js.map",
+    "index.html": "/Marcus/index.html",
+    "static/js/2.dd54e7ec.chunk.js.LICENSE.txt": "/Marcus/static/js/2.dd54e7ec.chunk.js.LICENSE.txt",
+    "static/media/aboutme.a31e1c17.jpg": "/Marcus/static/media/aboutme.a31e1c17.jpg",
+    "static/media/afx.f7fed9e4.bmp": "/Marcus/static/media/afx.f7fed9e4.bmp",
+    "static/media/afx1.93fd532a.bmp": "/Marcus/static/media/afx1.93fd532a.bmp",
+    "static/media/globe.12c84cea.png": "/Marcus/static/media/globe.12c84cea.png",
+    "static/media/logos.e309bf80.png": "/Marcus/static/media/logos.e309bf80.png",
+    "static/media/portf1.5ed53bc9.bmp": "/Marcus/static/media/portf1.5ed53bc9.bmp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93d8d6c2.js",
+    "static/js/2.dd54e7ec.chunk.js",
+    "static/js/main.59dd152f.chunk.js"
+  ]
+}
