@@ -1,6 +1,8 @@
 import img1 from '../img/portf1.bmp';
 import img2 from '../img/afx.bmp';
 import img3 from '../img/afx1.bmp';
+import img4 from '../img/cstempedutech.bmp'
+
 
 
 const portfolios = [
@@ -28,7 +30,16 @@ const portfolios = [
         image: img3,
         link1: 'http://fxtradingacademy.abovefinex.com/',
         title: 'EBH Forex Academy Training Programme Packages',
-        text: "Informational Page"
+        text: "Listing of Training"
+    },
+
+    {
+        id: 4,
+        category: 'NextJS',
+        image: img4,
+        link1: 'https://cstempedutech.com',
+        title: 'C-STEMP EDUTECH Website',
+        text: "Landing Page"
     }
 ];
 

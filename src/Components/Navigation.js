@@ -36,7 +36,7 @@ function Navigation(){
            </ul>
 
            <footer className="footer">
-               <p>© 2021 Marcus Dashe</p>
+               <p>© 2022 Marcus Dashe</p>
            </footer>
         </NavigationStyled>
     )

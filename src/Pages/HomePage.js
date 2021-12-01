@@ -18,7 +18,7 @@ function HomePage() {
             <div className="typography">
                 <h1> Hi, I'm Marcus - a freelance <span>Software Developer</span> </h1>
 
-                <p> An ambitious problem solver with a passion for designing and building of web/mobile application. Highly experience in creating both logical and innovative solutions to complex web/mobile app problems. </p>
+                <p>  I’m passionate about JavaScript and Python, I care about writing efficient, intelligent and clean code.</p>
                  <div className="icons">
                      
                      <a href="https://www.facebook.com/dashemarcus/" className="icon i-facebook" >

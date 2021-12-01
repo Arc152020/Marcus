@@ -65,7 +65,7 @@ const GlobalStyle = createGlobalStyle`
         font-size: 1rem;
         list-style: none;
         text-decoration: none;
-        font-family: harry;
+        font-family: tahoma;
         color: var(--font-light-color);
         
     }

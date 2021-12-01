@@ -17,21 +17,21 @@ function ServicesSection() {
                 <div className="services">
                     <ServiceCard 
                         image={webDevs} 
-                        title={'Web Apps Development'} 
+                        title={'Web App Devs & DevOps'} 
                         paragraph={''} 
                     />
 
                     <div className="mid-card">
                     <ServiceCard 
                         image={mobileDevs} 
-                        title={'Mobile Apps Development'} 
+                        title={'Mobile App Devs'} 
                         paragraph={''} 
                     />
                      </div>
                     
                     <ServiceCard 
                         image={logoDesign} 
-                        title={'Logo Design'} 
+                        title={'Logo Design, Wireframing & Prototyping'} 
                         paragraph={''} 
                     />
                    

@@ -13,25 +13,25 @@ function Skills() {
                 <InnerLayout>
                     <div className="skills">
                         <ProgressBar
-                            title={'MERN Stack'}
+                            title={'MongoDB, NextJS, NodeJS (MNN Stack)'}
                             width={'90%'}
                             text={'90%'}
                         />
 
                         <ProgressBar
-                            title={'FARM Stack'}
+                            title={'FastAPI, NextJS, MongoDB (FANM Stack)'}
                             width={'89%'}
                             text={'89%'}
                         />
 
                         <ProgressBar
-                            title={'DevOps (Docker, Git/Github, Virtualmin, CPanel)'}
-                            width={'95%'}
-                            text={'95%'}
+                            title={'DevOps (Docker, Git/Github, Linux Bash, CI)'}
+                            width={'90%'}
+                            text={'90%'}
                         />
 
                         <ProgressBar
-                            title={'Mobile Devs (Dart, Flutter )'}
+                            title={'Mobile Devs (Dart/Flutter )'}
                             width={'70%'}
                             text={'70%'}
                         />
@@ -42,23 +42,14 @@ function Skills() {
                             text={'65%'}
                         />
 
-                        <ProgressBar
-                            title={'Java (JavaFX, JSP, Servlet)'}
-                            width={'80%'}
-                            text={'80%'}
-                        />
 
                         <ProgressBar
-                            title={'Office Suite (Word, PowerPoint, Excel, Access)'}
-                            width={'90%'}
-                            text={'90%'}
+                            title={'Data Science (ML, Data Visualization)'}
+                            width={'60%'}
+                            text={'60%'}
                         />
 
-                        <ProgressBar
-                            title={'Linux (Bash Scripting)'}
-                            width={'70%'}
-                            text={'70%'}
-                        />
+                       
                     </div>
                 </InnerLayout>
             

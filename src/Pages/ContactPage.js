@@ -75,8 +75,8 @@ function ContactPage() {
                  <ContactItem 
                     icon={<EmailIcon />} 
                     title={'Email'} 
-                    contact1={'mqrksimon@gmail.com'}
-                    contact2={'marcus.simon@cstemp.org'}
+                    contact1={'marcusdashe.developer@gmail.com'}
+                    contact2={'marcus.simon@cstemp.org '}
                   />    
 
                     <ContactItem 

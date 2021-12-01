@@ -14,7 +14,7 @@ function ImageSection() {
                     <h4>I am a Software Developer from Jos, Nigeria <span></span></h4>
               
                 <p className="paragraph">
-                    Creative Web/Mobile App Developer dedicated to developing and optimizing interactive, user-friendly, and feature-rich Web/Mobile Apps.
+                    Creative Software Developer dedicated to developing and optimizing interactive, user-friendly, and feature-rich Apps for Web and Mobile Devices.
                     Leveraging analytical skills and strong attention to detail in order to deliver an efficient web and mobile solutions
                 </p>
 
